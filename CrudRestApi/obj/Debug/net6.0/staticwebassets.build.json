@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c9NAerFgQLYP8r/AsFL/iIbyNl+4fNvkphxqUZfuqdE=",
+  "Source": "CrudRestApi",
+  "BasePath": "_content/CrudRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
